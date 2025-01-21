@@ -1,2 +1,6 @@
 # idk
-- Author: sers
+* Author: sers
+- git add .
+- git commit -m "Test" 
+- git push
+- гугугага
