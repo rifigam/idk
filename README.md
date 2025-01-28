@@ -3,4 +3,4 @@
 - git add .
 - git commit -m "Test" 
 - git push
-- гугугага
+- git checkout -b NAME
